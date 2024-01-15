@@ -1,5 +1,5 @@
 # Celest Status Report
-![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Orion/main/Screenshots/Screenshot%202.png "Screenshot%202")
+![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Celest/main/Screenshots/1.jpg "1.jpg")
 _The Church (photo taken by Drone-4)_
 
 ## **Celest Scrap Retrieval Program**
