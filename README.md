@@ -1,5 +1,5 @@
 ### ⚠️ Platform notice ⚠️
-This mod is available on a [different platform](https://www.curseforge.com/lethal-company/mods/celestial-tint). This platform will get priority over Thunderstore. This means that the Thunderstore version of this mod will receive less frequent updates. Thunderstore will remain supported, but wont be a priority.
+This mod is available on a [different platform](https://www.curseforge.com/lethal-company/mods/celest). This platform will get priority over Thunderstore. This means that the Thunderstore version of this mod will receive less frequent updates. Thunderstore will remain supported, but wont be a priority.
 
 # Celest Status Report 🍁
 ![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Celest/main/Screenshots/2.jpg "Abandoned Factory")
