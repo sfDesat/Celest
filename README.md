@@ -1,7 +1,7 @@
-## NOTICE - New Developer
-A new member has been added onto the development team, **Tolian**. He will take over development and all questions should be towards him.
+### ⚠️ Platform notice ⚠️
+This mod is available on a [different platform](https://www.curseforge.com/lethal-company/mods/celestial-tint). This platform will get priority over Thunderstore. This means that the Thunderstore version of this mod will receive less frequent updates. Thunderstore will remain supported, but wont be a priority.
 
-# Celest Status Report
+# Celest Status Report 🍁
 ![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Celest/main/Screenshots/2.jpg "Abandoned Factory")
 _The Abandoned Factory (photo taken by Drone-4)_
 
@@ -17,7 +17,7 @@ Celest, a planet with a distinct red forest surrounding a vast valley, presents 
 ### **Hazards:**
 
 **Bunker Complex:**
-The primary target for scrap retrieval is the abandoned factory, located within the valley. Reports suggest the presence of unknown creatures within, raising the hazard level to B. The nature and severity of these creatures are uncertain, emphasizing the need for caution during operations.
+The primary target for scrap retrieval is the abandoned factory, located within the valley. Other points of interest are the abandoned scientific outposts. Reports suggest the presence of unknown creatures within. The nature and severity of these creatures are uncertain, emphasizing the need for caution during operations.
 
 **Celestial Avifauna:**
 Various bird species inhabit Celest, adding an additional layer of complexity to the environment. Their behavior may range from curious observation to potential interference with the mission. Detailed observations and caution are advised during interactions.
@@ -30,10 +30,8 @@ Celest presents a hazardous yet potentially rewarding environment for scrap retr
 
 **End of Report**
 
-# 
+***
+_If you want to give feedback, you can use my [github page](https://github.com/sfDesat/Celest/issues) or join the [discord server](https://discord.gg/lcmod) and search for **sfDesat** or click [here](https://discordapp.com/channels/1168655651455639582/1198736199297286196)._
 
-_If you want to give feedback, you can use the [github page](https://github.com/sfDesat/Celest/issues) or join the [discord server](https://discord.gg/lcmod) and search for `sfDesat`._
-
-**Check out other sfDesat mods [here](https://thunderstore.io/c/lethal-company/p/sfDesat/) or download my [modpacks](https://thunderstore.io/c/lethal-company/p/sfDesat/?section=modpacks).**
-#
-### Want to support me? [Buy me a coffee ❤️](https://buymeacoffee.com/toliann).
+**Want to support me? [Buy me a coffee ❤️](https://ko-fi.com/sfdesat)**
+***
