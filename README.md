@@ -27,7 +27,10 @@ Celest presents a hazardous yet potentially rewarding environment for scrap retr
 **End of Report**
 
 ***
-_If you want to give feedback, you can use my [github page](https://github.com/sfDesat/Celest/issues) or join the [discord server](https://discord.gg/lcmod) and search for **sfDesat** or click [here](https://discordapp.com/channels/1168655651455639582/1198736199297286196)._
+_If you want to give feedback or have questions, here are some options:  
+**[sfDesat discord](https://discord.gg/UVJx7F8mJY)**  
+[Github page](https://github.com/sfDesat/Celest/issues)  
+[Official Lethal Company discord](https://discord.gg/lcmod) in this [channel](https://discordapp.com/channels/1168655651455639582/1198736199297286196)._  
 
 **Want to support me? [Buy me a coffee ❤️](https://ko-fi.com/sfdesat)**
 ***
