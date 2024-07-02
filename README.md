@@ -1,5 +1,5 @@
 ### ⚠️ Platform notice ⚠️
-This mod is now available on a [different platform](https://www.curseforge.com/lethal-company/mods/celest). This new platform will get update priority and receive betas. This means that the Thunderstore version of this mod will receive less frequent updates. Thunderstore will remain supported.
+This mod is now also available on a [different platform](https://www.curseforge.com/lethal-company/mods/celest). This new platform will receive beta updates. Thunderstore will remain supported.
 
 # Celest Status Report 🍁
 ![Screenshot_1](https://raw.githubusercontent.com/sfDesat/Celest/main/Screenshots/2.jpg "Abandoned Factory")
